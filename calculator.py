@@ -5,7 +5,6 @@ precidence = {
         '*' : 2
         }
 
-
 def answer(str):
     output = []
     stack = []
